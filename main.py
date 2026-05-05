@@ -9,6 +9,8 @@ def main():
     
     awesomeCheckOut2 = 7
     awesomeCheckOut3 = 7
+    
+    print(awesomeCheckOut + awesomeCheckOut2 + awesomeCheckOut3)
 
 
 if __name__ == "__main__":
