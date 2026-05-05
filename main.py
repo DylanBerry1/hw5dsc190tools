@@ -1,5 +1,9 @@
+import sys
+
 def main():
-    print("Hello from hw5dsc190tools!")
+    print(sys.version[2])
+    assert 6 == 6
+    assert 9 == 9
 
 
 if __name__ == "__main__":
